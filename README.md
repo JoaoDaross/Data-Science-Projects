@@ -4,7 +4,10 @@ This is the repository I post my data science and machine learning projects
 
 # Projects :
 
-
+- classificacao de risco
+- aluguel de imoveis
+- clusterizacao e previsao de pontos NBA
+- Investimentos
  
  # About me :
  
