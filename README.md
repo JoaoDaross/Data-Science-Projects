@@ -4,6 +4,7 @@ This is the repository I post my data science and machine learning projects
 
 # Projects :
 
+* [Classificação de Risco](https://github.com/JoaoDaross/Data-Science-Projects/tree/main/ClassificacaoDeRisco)
 - classificacao de risco
 - aluguel de imoveis
 - clusterizacao e previsao de pontos NBA
